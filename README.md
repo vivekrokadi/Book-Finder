@@ -6,6 +6,10 @@ Click any book to see full details in a sleek dark-themed modal.
 
 ---
 
+## 🔗 Live Demo
+
+[Click here to view the working project](https://book-finder-vivek-rokadi.vercel.app/)
+
 
 ## 📸 Screenshots
 
