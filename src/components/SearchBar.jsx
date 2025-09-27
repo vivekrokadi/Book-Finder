@@ -15,7 +15,7 @@ function SearchBar({ onSearch, isLoading = false }) {
   return (
     <div className="w-full max-w-2xl mx-auto">
       <form onSubmit={submit} className="space-y-3">
-        <div className="flex gap-2">
+        <div className="flex gap-2 flex-col sm:flex-row">
           <input
             value={title}
             onChange={(e) => setTitle(e.target.value)}
