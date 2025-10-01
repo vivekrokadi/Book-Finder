@@ -86,11 +86,12 @@ function App() {
             onClose={() => setSelectedBook(null)}
           />
         )}
-      </div>
-      <footer className=" text-white flex justify-between px-2.5 mt-8 text-center">
+        <footer className=" text-white flex justify-between px-2.5 mt-8 text-center">
         <h2 className="text-lg font-semibold">Book Finder</h2>
         <p className="text-sm mt-1">Powered by Open Library API</p>
       </footer>
+      </div>
+      
     </div>
   );
 }
